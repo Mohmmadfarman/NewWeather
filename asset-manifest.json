@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewWeather/static/css/main.9edd4044.css",
+    "main.js": "/NewWeather/static/js/main.b542102c.js",
+    "static/js/453.97127cc3.chunk.js": "/NewWeather/static/js/453.97127cc3.chunk.js",
+    "index.html": "/NewWeather/index.html",
+    "main.9edd4044.css.map": "/NewWeather/static/css/main.9edd4044.css.map",
+    "main.b542102c.js.map": "/NewWeather/static/js/main.b542102c.js.map",
+    "453.97127cc3.chunk.js.map": "/NewWeather/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9edd4044.css",
+    "static/js/main.b542102c.js"
+  ]
+}
